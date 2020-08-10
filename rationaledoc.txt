@@ -1,0 +1,13 @@
+Rationale Document
+
+Simple Web App for streaming music from Spotify using the Spotify SDK and API
+
+Technologies used for this project include:
+NodeJS with Express in the back-end, and
+Vanilla JavaScript with the EJS viewing engine, utilizing AJAX and Bootstrap CSS.
+
+Laravel was considered, and could prove useful in a possible further development of this idea.
+Bootstrap was chosen because of its simplicity and ease of use.
+AJAX is mandatory in such a project where we cannot afford page reloads.
+NodeJS and Express are excellent tools, even more so as the examples in Spotify's API
+have them as examples.
